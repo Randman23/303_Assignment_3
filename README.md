@@ -16,26 +16,25 @@ The program has two main files;
 
 
 ## Functions 
-Void Push 
-- Adds the element to the queue
-Void Pop
-- Removes the next element from the queue
-T front
-- Finds the front of the queue
-int size
-- Finds the size of the queue
-Bool empty
-- Determines if the queue is empty
-Void Move_to_rear
-- Moves the front element in the queue to the end of the queue
-Void insertion_sort_queue
--Sorts the queue using insertion sort
-Void insertion_sort
-- Helper function to sort the queue
-Void Display_vector
--Displays the contents of the vector
-Int linear_search
-- Searches for the final occurance of a number in a vector  
+Void Push: Adds the element to the queue
+
+Void Pop: Removes the next element from the queue
+
+T front: Finds the front of the queue
+
+int size: Finds the size of the queue
+
+Bool empty: Determines if the queue is empty
+
+Void Move_to_rear: Moves the front element in the queue to the end of the queue
+
+Void insertion_sort_queue: Sorts the queue using insertion sort
+
+Void insertion_sort: Helper function to sort the queue
+
+Void Display_vector: Displays the contents of the vector
+
+Int linear_search: Searches for the final occurance of a number in a vector  
 
 
 - This program requires no user input to run 
