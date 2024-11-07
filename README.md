@@ -40,6 +40,5 @@ Int linear_search: Searches for the final occurance of a number in a vector
 - This program requires no user input to run 
 - The contents of the queue and vector are filled automatically
 - The user needs to get the files and compile and then the functions listed above will occur
-- 
 ##Pictures To Follow
 ![1](https://github.com/user-attachments/assets/b908231e-9dab-4d9d-9d83-d6a13ca532e3)
