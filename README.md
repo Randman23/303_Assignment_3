@@ -1,4 +1,4 @@
-# Assignment 1 303 
+# Assignment 3 303 
 ## Synopsis 
 This program defines and alters both a queue of numbers and a vector. 
 It has the ability to 
